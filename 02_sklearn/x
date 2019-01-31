@@ -1,0 +1,92 @@
+item {
+  id: 1
+  name: 'laptop'
+}
+item {
+  id: 2
+  name: 'smallelectronicequipmen'
+}
+item {
+  id: 3
+  name: 'powerbank'
+}
+item {
+  id: 4
+  name: 'glassbottle'
+}
+item {
+  id: 5
+  name: 'winebottle'
+}
+item {
+  id: 6
+  name: 'umbrella'
+}
+item {
+  id: 7
+  name: 'metalcup'
+}
+item {
+  id: 8
+  name: 'lighter'
+}
+item {
+  id: 9
+  name: 'pressure'
+}
+item {
+  id: 10
+  name: 'drinkbottle'
+}
+item {
+  id: 11
+  name: 'scissor'
+}
+item {
+  id: 12
+  name: 'defibrillator'
+}
+item {
+  id: 13
+  name: 'gun'
+}
+item {
+  id: 14
+  name: 'magazine_clip'
+}
+item {
+  id: 15
+  name: 'fingerlock'
+}
+item {
+  id: 16
+  name: 'slingshot'
+}
+item {
+  id: 17
+  name: 'expandablebaton'
+}
+item {
+  id: 18
+  name: 'zippooil'
+}
+item {
+  id: 19
+  name: 'nailpolish'
+}
+item {
+  id: 20
+  name: 'binghu'
+}
+item {
+  id: 21
+  name: 'handcuffs'
+}
+item {
+  id: 22
+  name: 'fireworks_crackers'
+}
+item {
+  id: 23
+  name: 'knife'
+}
